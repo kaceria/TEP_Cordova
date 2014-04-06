@@ -1,0 +1,24 @@
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes.dex : \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\com\jamiestarke\webviewdebug\WebViewDebug.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\de\ikr_TEP\BuildConfig.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\de\ikr_TEP\R$attr.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\de\ikr_TEP\R$drawable.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\de\ikr_TEP\R$string.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\de\ikr_TEP\R$xml.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\de\ikr_TEP\R.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\de\ikr_TEP\TEP.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4$1.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowserDialog.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+c:\Development\Projects\Github\TEP_APP_Cordova\platforms\android\ant-build\dexedLibs\classes-5b9904cfb0a09059535885b901c5d924.jar \
