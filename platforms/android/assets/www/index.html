@@ -5,7 +5,9 @@
         <meta name="format-detection" content="telephone=no" />
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
         <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <link rel="stylesheet" type="text/css" href="js/jquery.mobile-1.4.2.min.css" />
         <title>Google OAuth with PhoneGap</title>
+
     </head>
     <body>
         <div class="app">
@@ -14,16 +16,49 @@
                 <h1>Laden der App</h1>
             </div>
             <div id="login">
-                <a>Sign In With Google!</a>
+                <a>IKR Login</a>
                 <p></p>
             </div>
             <div id="greet">
-				<div>Sie Sind Angemeldet</div>
-                <a href="https://accounts.google.com/Logout">Logout</a>
-            </div>
+                <div data-role="page" id="foo">
+                    <div data-role="header" role="banner" class="ui-header ui-bar-inherit">
+                        <h1 class="ui-title" role="heading" aria-level="1">Willkommen beim Trainer Einsatzplan</h1>
+                        <a href="#leftpanel1" class="ui-btn-left ui-alt-icon ui-nodisc-icon ui-btn ui-icon-grid ui-btn-icon-notext ui-corner-all">Reveal</a>
+                    </div><!-- /header -->
+                    <div role="main" class="ui-content">
+
+                    </div><!-- /content -->
+                    <div data-role="footer">
+                        <h4>Page Footer</h4>
+                    </div><!-- /footer -->
+
+
+                    <div data-role="panel" id="leftpanel1" data-position="left" data-display="reveal" data-theme="a" class="ui-panel ui-panel-position-left ui-panel-display-reveal ui-body-a ui-panel-animate ui-panel-closed">
+                        <div class="ui-panel-inner">
+                            <div data-role="navbar" data-iconpos="right">
+                                <a href="#" data-icon="grid" class="ui-btn-active">Summary</a>
+                                <a href="#" data-icon="star" >Favs</a>
+                                <a href="#" data-icon="gear">Setup</a>
+                            </div><!-- /navbar -->
+                        </div>
+                    </div><!-- /page -->
+
+
+
+
+
+
+
+
+
+
+
+
+                </div>
         </div>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="js/jquery.mobile-1.4.2.min.js"></script>
 		<script type="text/javascript" src="js/gas_login.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
     </body>

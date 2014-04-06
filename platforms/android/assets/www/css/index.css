@@ -29,12 +29,9 @@ body {
 /* Portrait layout (default) */
 .app {
     position:absolute;
-    left:50%;
-    top:50%;
-    height:50px;
-    width:225px;
-    margin-top: -25px;
-    margin-left: -112px;
+
+    height:100%;
+    width:100%;
     text-align:center;
 }
 
